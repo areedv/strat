@@ -17,4 +17,5 @@ Imports:
     wordcloud,
     RColorBrewer,
     RCurl,
-    XML
+    XML,
+    pdftools
