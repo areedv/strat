@@ -1,0 +1,20 @@
+Package: strat
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Are",
+           family = "Edvardsen",
+           role = c("aut", "cre"),
+           email = "biorakel@gmail.com",
+           comment = c(ORCID = "0000-0002-5210-3656"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tm,
+    SnowballC,
+    wordcloud,
+    RColorBrewer,
+    RCurl,
+    XML
