@@ -19,5 +19,5 @@ compilePdfs <- function(targetDir = "./tmp", context = "anal") {
     t <- c(t, pdf_text(file))
   }
   
-  cat(t)
+  paste(t, collapse = ' ')
 }
