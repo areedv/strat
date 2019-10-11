@@ -1,0 +1,41 @@
+---
+title: "Mulig form for presentasjon"
+author: "Are Edvardsen, SKDE"
+date: "10/11/2019"
+output:
+  revealjs::revealjs_presentation:
+    fig_height: 4
+    self_contained: true
+    theme: beige
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Første bolk {data-background="background.png"}
+
+## Konsept {data-background="background.png"}
+![word cloud](Rplot02.svg)
+
+## Rammebetingelser {data-background="background.png"}
+
+
+# Andre bolk {data-background="background.png"}
+
+## Konsept {data-background="background.png"}
+
+## Idémyldring {data-background="background.png"}
+
+## Vår disposisjon {data-background="background.png"}
+
+## Våre detaljer (ved behov) {data-background="background.png"}
+
+
+# Tredje bolk {data-background="background.png"}
+
+## Konsept {data-background="background.png"}
+
+## Diskusjon {data-background="background.png"}
+
+## Hva vi har tenkt og gjort {data-background="background.png"}
