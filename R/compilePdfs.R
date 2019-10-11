@@ -19,5 +19,7 @@ compilePdfs <- function(targetDir = "./tmp", context = "anal") {
     t <- c(t, pdf_text(file))
   }
   
-  paste(t, collapse = ' ')
+  t <- paste(t, collapse = ' ')
+  # assume this apply for all...
+  iconv(t, from = "latin1", to = "UTF-8")
 }
