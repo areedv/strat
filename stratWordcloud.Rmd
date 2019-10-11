@@ -13,6 +13,17 @@ output: ioslides_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 data("texts")
+data("guris")
+```
+
+## Hvem er vi? Google vet alt
+```{r gsky, warning=FALSE}
+res <- strat::makeWordCloud(guris, type = "url", max.words = 50, colorPalette = "Set1")
+```
+
+## Stats
+```{r astats, echo=TRUE}
+head(res$freqTable, 5)
 ```
 
 ## Analyse
