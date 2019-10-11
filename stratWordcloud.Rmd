@@ -22,7 +22,7 @@ res <- strat::makeWordCloud(guris, type = "url", max.words = 50, colorPalette = 
 ```
 
 ## Stats
-```{r astats, echo=TRUE}
+```{r gstats, echo=TRUE}
 head(res$freqTable, 5)
 ```
 
