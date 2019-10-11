@@ -8,4 +8,4 @@ texts$serv <- compilePdfs(context = "serv")
 texts$anal <- fetchPdfs(uris$anal, context = "anal")
 texts$anal <- compilePdfs(context = "anal")
 
-usethis::use_data(texts)
+usethis::use_data(texts, overwrite = TRUE)
