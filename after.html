@@ -1,0 +1,18 @@
+<script>
+    /*
+     * Hack to include paralax background and reveal.js-menu
+     */
+    Reveal.initialize({
+      parallaxBackgroundImage: "background.png"
+      /*
+       * This does not work at the moment:
+       dependencies: [
+  		   { src: 'reveal.js-menu-master/menu.js' }
+	     ]
+       */
+    });
+    /*
+     * Configure slide numbering to 'actualslide / #totalslides'
+     */
+    Reveal.configure({ slideNumber: 'c/t' });
+  </script>
