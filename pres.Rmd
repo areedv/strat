@@ -6,36 +6,40 @@ output:
   revealjs::revealjs_presentation:
     fig_height: 4
     self_contained: true
+    includes:
+      after_body: after.html
     theme: beige
+    reveal_options:
+      slideNumber: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Første bolk {data-background="background.png"}
+# Første bolk
 
-## Konsept {data-background="background.png"}
-![word cloud](Rplot02.svg)
-
-## Rammebetingelser {data-background="background.png"}
+## Konsept 
 
 
-# Andre bolk {data-background="background.png"}
-
-## Konsept {data-background="background.png"}
-
-## Idémyldring {data-background="background.png"}
-
-## Vår disposisjon {data-background="background.png"}
-
-## Våre detaljer (ved behov) {data-background="background.png"}
+## Rammebetingelser 
 
 
-# Tredje bolk {data-background="background.png"}
+# Andre bolk 
 
-## Konsept {data-background="background.png"}
+## Konsept 
 
-## Diskusjon {data-background="background.png"}
+## Idémyldring 
 
-## Hva vi har tenkt og gjort {data-background="background.png"}
+## Vår disposisjon 
+
+## Våre detaljer (ved behov) 
+
+
+# Tredje bolk 
+
+## Konsept 
+
+## Diskusjon 
+
+## Hva vi har tenkt og gjort 
