@@ -1,7 +1,7 @@
 ---
-title: "Mulig form for presentasjon"
-author: "Are Edvardsen, SKDE"
-date: "10/11/2019"
+title: "SKDE strategi"
+author: "Stunt"
+date: "28. oktober 2019"
 output:
   revealjs::revealjs_presentation:
     fig_height: 4
@@ -17,15 +17,25 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Første bolk
+# Rammer for prosess og tidsplan -- samt kake
 
-## Konsept 
+## Men hvorfor..?
+Legges frem av BV
+
+## Hva er strategien -- og hva er den ikke?
+
+![]('./figs/toc.jpg')
+
 
 
 ## Rammebetingelser 
+dfasfd
 
+- asdfsa
+- asdfs
 
-# Andre bolk 
+# Andre bolk
+sdfsf
 
 ## Konsept 
 
