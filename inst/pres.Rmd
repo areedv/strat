@@ -24,7 +24,7 @@ Legges frem av BV
 
 ## Hva er strategien -- og hva er den ikke?
 
-![]('./figs/toc.jpg')
+![](./figs/toc.jpg)
 
 
 
