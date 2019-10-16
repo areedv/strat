@@ -23,27 +23,30 @@ knitr::opts_chunk$set(echo = FALSE)
 Legges frem av BV
 
 ## Hva er strategien -- og hva er den ikke?
-
 ![](./figs/toc.jpg)
 
 
 
-## Rammebetingelser 
-dfasfd
+## Hvorfor lager vi en strategi?
+![](./figs/rammebetingelser.jpg)
 
-- asdfsa
-- asdfs
+## Hva kjennetegner en god strategi?
+![](./figs/prioritere.jpg)
 
-# Andre bolk
-sdfsf
+## Hva kjennetegner en god strategi?
+![](./figs/trajectory.jpg)
 
-## Konsept 
+## Hva kjennetegner en god strategi?
+![](./figs/fristelse.jpg)
 
-## Idémyldring 
+# To viktige presiseringer
 
-## Vår disposisjon 
+## Alt kan repareres!!!
+![](./figs/repareres.jpg)
 
-## Våre detaljer (ved behov) 
+## Rammeverk -- til hjelp for tanken
+
+## Til hjelp for tanken
 
 
 # Tredje bolk 
