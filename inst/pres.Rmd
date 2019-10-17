@@ -48,7 +48,8 @@ sdfsf
 
 # Tredje bolk 
 
-## Konsept 
+## Konsept
+![](./figs/giphy.gif)
 
 ## Diskusjon 
 
