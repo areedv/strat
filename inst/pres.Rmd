@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 Legges frem av BV
 
 ## Hva er strategien -- og hva er den ikke?
-![](./figs/toc.jpg)
+![](./figs/toc.jpg) <!-- .element height="50%" width="50%" -->
 
 
 
@@ -60,7 +60,7 @@ Legges frem av BV
 
 
 ## Til hjelp for tanken
-![](./figs/pyra.png)
+![](./figs/pyra.png)<!-- .element height="50%" width="50%" -->
 
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
