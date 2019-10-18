@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Rammer for prosess og tidsplan -- samt kake
 
-## Men hvorfor..?
+## Men hvorfor..? {background-repeat="no-repeat"}
 Legges frem av BV
 
 ## Hva er strategien -- og hva er den ikke?
@@ -40,7 +40,10 @@ Legges frem av BV
 ## Hva kjennetegner en god strategi?
 ![](./figs/fristelse.gif)
 
+
+
 # To viktige presiseringer
+
 
 ## Prosess i arbeidsgruppen
 
@@ -51,53 +54,60 @@ Legges frem av BV
 ## Men husk, alt kan repareres!!!
 ![](./figs/repareres.jpg)
 
+
+
 # Rammeverk for en strategi
+
 
 ## Til hjelp for tanken
 ![](./figs/pyra.png)
 
-## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+
+## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 - Økonomiske og juridiske rammer
 - Oppdrag
-- Bestillinger (er dette egentlig en hard forutsetning?)
+- Bestillinger [er dette egentlig en hard forutsetning?]
 
 
-## Kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+## Kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 Hva skal vi stå for i SKDE?
-(For gruppearbeidet, ønsker vi da fokus på HOLDNINGER eller KOMPETANSE, ev begge deler?)
+
+[For gruppearbeidet, ønsker vi da fokus på HOLDNINGER eller KOMPETANSE, ev begge deler?]
 
         
-## Visjon {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" .center}
+## Visjon {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain" .center}
 
 - Fremtidens målbilde
 - Vårt oppdrag -- på lang sikt (2035)
 
 
-## Mål  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" .center}
+## Mål  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain" .center}
 
 - Der vi ønsker å være etter strategiperioden(e)
 - Hva vi skal ha oppnådd
 
 
-## Suksessfaktorer {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+## Suksessfaktorer {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 - Hva som skal til for at vi lykkes i å nå visjon og mål
 - Faktorer som krever betydelig innsats i perioden(e)
 - "Konkurransefortrinn"
 
 
-## Strategiske områder {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+## Strategiske områder {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 - hvor vi har et gap mellom nåsituasjon og ønsket situasjon/målbilde
 - hvor vi særskilt vil knytte aktiviteter og investeringer for å komme dit vi ønsker
 
 
+
 # (Utvikling av) Strategi (for) SKDE
 
 ## (Våre) Kjerneverdier
-Hva er nå det da? GRUPPEKLEM!!!
+Hva er nå det da?
+
 
 ## Forutsetninger
 
@@ -105,19 +115,25 @@ Hva er nå det da? GRUPPEKLEM!!!
 - Regionale og nasjonale oppdrag
 - Økonomiske rammebetingelser
 
+
 ## Strategiske områder
 
 - Forskning
 - Kunnskapsoverføring
 - Beslutningsstøtte
 
+...og dette kommer vi tilbake til om tida strekker til
+
+
 ## Strategisk område: forskning
 
 > Vi skal styrke arbeidet med kvalitetsregistre og helseatlas, og utvikler derfor klinikknær helsetjeneste-forskning med kvantitativ og kvalitativ metode med data fra bla. medisinske kvalitetsregistre, NPR og andre nasjonale helse- og befolkningsregistre.
 
+
 ## Strategisk område: kunnskapsoverføring
 
 > Vi skal stimulere til økt bruk av resultater fra SKDE som grunnlag for forbedringsprosjekter i helseforetakene, og utvikler derfor nye og mer målrettede aktiviteter som tar sikte på kunnskapsoverføring til beslutningstakere på alle nivåer i helsetjenesten.
+
 
 ## Strategisk område: beslutningsstøtte
 
@@ -132,17 +148,22 @@ Hva er nå det da? GRUPPEKLEM!!!
 
 ...og dette kommer vi tilbake til om tida strekker til
 
+
 ## Mål: bedre og mer likeverdige tjenester
 
 > SKDE skal bidra til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
+
 
 ## Visjon
 
 > Pasientens beste
 
-## And now, the nitty gritty details...
 
-Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner
+## [And now, the nitty gritty details...]
+
+- [Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner]
+- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik?]
+
 
 ## Suksessfaktorer: funksjonell orgasnisering
 
@@ -152,6 +173,7 @@ Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner
 > - Et samlet analysemiljø 
 > - En tverrfaglig arbeidsgruppe for en ny formidlingsportal/plan 
 > - En tverrfaglig arbeidsgruppe for å utvikle kunnskap om metoder for kvalitetsforbedring
+
 
 ## Suksessfaktorer: fremtidsrettet kompetanse
 
@@ -164,6 +186,7 @@ Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner
 > - God helseregisterkompetanse 
 > - Pålitelig databehandling?
 
+
 ## Suksessfaktorer: nærhet til helsetjenesten
 
 > - Vi er en sentral aktør i et samordnet og koordinert fagmiljø som fungerer som støtte for(?) kvalitetsregistrene og referansegrupper for helseatlas og virksomhetsanalyser
@@ -174,3 +197,54 @@ Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner
 ## Skal dette med videre? (sto under databehandling)
 - Ivareta og utvikle faglighet, grundighet, edruelighet og åpenhet  i vår databehandling
 - Ivareta og utvikle engasjementet og viljen til å støtte opp om de som er avhengige av oss 
+
+
+## Strategisk område: forskning
+
+> Forskning på årsaker til variasjon i bruk og kvalitet i helsetjenesten som er nyttig i forbedringsarbeid, skal inngå som en integrert del av kjernevirksomheten i SKDE
+
+Herunder:
+
+
+## Strategisk område: forskning, forts.
+
+> - Utvikle forskningsstøttet helseatlas med bruk av flere datakilder
+> - Prioritere og tilrettelegge for forskningssamarbeid med kvalitetsregistre
+> - Etablere rutiner  for mest mulig effektiv tilgang til data fra for eksempel NPR, KPR/KUHR, kvalitetsregistre, SSB
+> - Utvikle forskningsnettverk: identifisere og etablere formelt samarbeid med sentrale nasjonale og internasjonale miljø.
+
+
+## Strategisk område: forskning, forts.
+
+> Skape handlingsrom gjennom ekstern finansiering
+
+> - Etablere en kontinuerlig prosess for prosjektutvikling i hele avdelingen 
+> - Etablere en ide/prosjektbank til student/masteroppgaver
+> - Søke på alle relevante nasjonale utlysninger av forskningsmidler
+
+
+## Strategisk område: kunnskapsoverføring
+
+> Sørge for at tilgjengelig styringsinformasjon, kunnskap om variasjon i helsetjenesten og kunnskap om forbedringsmetodikk når ut til beslutningstakere på alle nivåer i helsetjenesten
+
+Herunder:
+
+
+## Strategisk område: kunnskapsoverføring, forts.
+
+> - Bringe målrettet og tilpasset  informasjon til hvert enkelt HF, RHF og nasjonale helsemyndigheter
+> - Arbeide for at forbedrings-kunnskap/metodikk tas opp i alle kvalitetsregistre
+> - Delta aktivt i relevante faglige fora/møteplasser/tidsskrift
+> - Bidra aktivt med kunnskapsformidling  i den offentlige debatt
+> - Utvikle retorikk og et narrativ i vår formidling som gjør at kunnskapen aksepteres og  brukes
+> - Utvikle en portal for presentasjon av nøkkelresultater for styring og kvalitetsforbedring
+> - Forenkle rapporteringsrutiner for kvalitetsregistrene  --  selvangivelsmodell
+
+
+## Strategisk område: beslutningsstøtte
+- Beholde og utvikle posisjonen som nasjonalt ledende innen kunnskap om medisinske kvalitetsregistre og NPR, som datakilder for kvalitetsforbedring og styringsinformasjon
+    - Styrke miljøet for analysestøtte basert på registerdata
+    - Markere SKDE i nasjonale nettverk/arbeidsgrupper
+    - Utvikle et sterkt miljø for kunnskap om metoder for kvalitetsforbedring
+    - Identifisere og utforme relevant styringsinformasjon
+- Utvikle kompetansen på og prosedyrene for bruk av andre helseregistre samt koblede datasett, som datakilder for kvalitetsforbedring og - styringsinformasjon
