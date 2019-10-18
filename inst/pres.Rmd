@@ -4,13 +4,14 @@ author: "Stunt"
 date: "28. oktober 2019"
 output:
   revealjs::revealjs_presentation:
-    fig_height: 4
     self_contained: true
+    css: strat.css
     includes:
       after_body: after.html
     theme: beige
     reveal_options:
       slideNumber: true
+      fig_height: 3
 ---
 
 ```{r setup, include=FALSE}
@@ -28,32 +29,148 @@ Legges frem av BV
 
 
 ## Hvorfor lager vi en strategi?
-![](./figs/rammebetingelser.jpg)
+![](./figs/rammebetingelser.gif)
 
 ## Hva kjennetegner en god strategi?
-![](./figs/prioritere.jpg)
+![](./figs/prioritere.gif)
 
 ## Hva kjennetegner en god strategi?
-![](./figs/trajectory.jpg)
+![](./figs/trajectory.gif)
 
 ## Hva kjennetegner en god strategi?
-![](./figs/fristelse.jpg)
+![](./figs/fristelse.gif)
 
 # To viktige presiseringer
 
-## Alt kan repareres!!!
+## Prosess i arbeidsgruppen
+
+- Målsetting: å legger frem "noe" som et godt grunnlag for diskusjon og videre bearbeiding i hele SKDE
+- Vanskelig å få dette til om ikke utkast til strategi er fullstendig
+
+
+## Men husk, alt kan repareres!!!
 ![](./figs/repareres.jpg)
 
-## Rammeverk -- til hjelp for tanken
+# Rammeverk for en strategi
 
 ## Til hjelp for tanken
+![](./figs/pyra.png)
+
+## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+
+- Økonomiske og juridiske rammer
+- Oppdrag
+- Bestillinger (er dette egentlig en hard forutsetning?)
 
 
-# Tredje bolk 
+## Kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
 
-## Konsept
-![](./figs/giphy.gif)
+Hva skal vi stå for i SKDE?
+(For gruppearbeidet, ønsker vi da fokus på HOLDNINGER eller KOMPETANSE, ev begge deler?)
 
-## Diskusjon 
+        
+## Visjon {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" .center}
 
-## Hva vi har tenkt og gjort 
+- Fremtidens målbilde
+- Vårt oppdrag -- på lang sikt (2035)
+
+
+## Mål  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" .center}
+
+- Der vi ønsker å være etter strategiperioden(e)
+- Hva vi skal ha oppnådd
+
+
+## Suksessfaktorer {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+
+- Hva som skal til for at vi lykkes i å nå visjon og mål
+- Faktorer som krever betydelig innsats i perioden(e)
+- "Konkurransefortrinn"
+
+
+## Strategiske områder {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png"}
+
+- hvor vi har et gap mellom nåsituasjon og ønsket situasjon/målbilde
+- hvor vi særskilt vil knytte aktiviteter og investeringer for å komme dit vi ønsker
+
+
+# (Utvikling av) Strategi (for) SKDE
+
+## (Våre) Kjerneverdier
+Hva er nå det da? GRUPPEKLEM!!!
+
+## Forutsetninger
+
+- Lovgivning
+- Regionale og nasjonale oppdrag
+- Økonomiske rammebetingelser
+
+## Strategiske områder
+
+- Forskning
+- Kunnskapsoverføring
+- Beslutningsstøtte
+
+## Strategisk område: forskning
+
+> Vi skal styrke arbeidet med kvalitetsregistre og helseatlas, og utvikler derfor klinikknær helsetjeneste-forskning med kvantitativ og kvalitativ metode med data fra bla. medisinske kvalitetsregistre, NPR og andre nasjonale helse- og befolkningsregistre.
+
+## Strategisk område: kunnskapsoverføring
+
+> Vi skal stimulere til økt bruk av resultater fra SKDE som grunnlag for forbedringsprosjekter i helseforetakene, og utvikler derfor nye og mer målrettede aktiviteter som tar sikte på kunnskapsoverføring til beslutningstakere på alle nivåer i helsetjenesten.
+
+## Strategisk område: beslutningsstøtte
+
+> Vi skal sikre beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
+
+
+## Suksessfaktorer
+
+- Funksjonell organisering
+- Fremtidsrettet kompetanse
+- Nærhet til helsetjenesten
+
+...og dette kommer vi tilbake til om tida strekker til
+
+## Mål: bedre og mer likeverdige tjenester
+
+> SKDE skal bidra til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
+
+## Visjon
+
+> Pasientens beste
+
+## And now, the nitty gritty details...
+
+Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner
+
+## Suksessfaktorer: funksjonell orgasnisering
+
+> - God intern samordning og oppgavefordeling gjennom tydelig prioritering av oppgaver
+> - Optimalisert og situasjonsbetinget bruk av den samlede analysekapasiteten
+> - Optimalisert og samordnet bruk av stabsressursene
+> - Et samlet analysemiljø 
+> - En tverrfaglig arbeidsgruppe for en ny formidlingsportal/plan 
+> - En tverrfaglig arbeidsgruppe for å utvikle kunnskap om metoder for kvalitetsforbedring
+
+## Suksessfaktorer: fremtidsrettet kompetanse
+
+> - Vi er en lærende organisasjon, der ansatte har tid og rom for utforsking av nye ideer og verktøy
+> - Vi er en innovativ og endringsvillig organisasjon der nye ideer-….nåkka?
+> - Hvor kompetente skal forskerne våre være --- hvilken kompetanse skal vi styre mot etter oppnådd PhD?  professorkompetente? 1. aman komp?
+> - Intern opplæring/kompetanseoverføring
+> - Formell kompetanseheving (nye doktorgrader/mastergrader)
+> - Deltakelse på eksterne kurs ved behov
+> - God helseregisterkompetanse 
+> - Pålitelig databehandling?
+
+## Suksessfaktorer: nærhet til helsetjenesten
+
+> - Vi er en sentral aktør i et samordnet og koordinert fagmiljø som fungerer som støtte for(?) kvalitetsregistrene og referansegrupper for helseatlas og virksomhetsanalyser
+> - Vi har et kompetent og tverrfaglig brukerforum for SKDE som aktivt brukes til forbedring og utvikling
+> - Vi bruker den kontakten vi har med sentrale fagfolk i arbeidet  med å formidle  resultater
+
+
+## Skal dette med videre? (sto under databehandling)
+- Ivareta og utvikle faglighet, grundighet, edruelighet og åpenhet  i vår databehandling
+- Ivareta og utvikle engasjementet og viljen til å støtte opp om de som er avhengige av oss 
