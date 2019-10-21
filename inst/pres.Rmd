@@ -76,7 +76,7 @@ sdfsa
 
 
 ## Til hjelp for tanken
-![](./figs/pyra.png)<!-- .element height="50%" width="50%" -->
+![](./figs/pyra.png) <!-- .element height="50%" width="50%" -->
 
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_trans.png" background-size="contain"}
