@@ -1,6 +1,6 @@
 ---
 title: "SKDE strategi"
-author: "Stunt"
+author: "PetraBartholdHeidiAreBeateHanneSigrun"
 date: "24. oktober 2019"
 output:
   revealjs::revealjs_presentation:
@@ -20,19 +20,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Rammer for prosess og tidsplan -- samt kake (BV)
 
+
 ## Men hvorfor..? {background-repeat="no-repeat"}
-Legges frem av BV
 
 
-## Hvem har jobbet med dette?
-asdf
+## Tidslinje {.center}
+![](./figs/tidslinje.png)
 
 
-## Tidslinje
-sdfsa
-
-
-# Hva er strategi? (HS)
+# Hva er strategi? (HSB)
 
 ## Hva er strategien -- og hva er den ikke?
 ![](./figs/toc.jpg) <!-- .element height="50%" width="50%" -->
@@ -58,7 +54,7 @@ sdfsa
 
 
 
-# To viktige presiseringer
+# To viktige presiseringer (HSB)
 
 
 ## Prosess i arbeidsgruppen
@@ -118,13 +114,13 @@ Hva skal vi stå for i SKDE?
 
 # Utkast til Strategi for SKDE (AE)
 
-## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/forut_bck.png" background-size="contain" .center}
+## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/forut_bck.png" background-size="contain"}
 
 - Lovgivning
 - Regionale og nasjonale oppdrag
 - Økonomiske rammebetingelser
 
-## Våre kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/kjerne_bck.png" background-size="contain" .center}
+## Våre kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/kjerne_bck.png" background-size="contain"}
 - Hva er nå det da?
 - Må gi gjenklang hos alle, aka alle må kunne idetifiserer seg med verdiene som foreslås
 
@@ -143,23 +139,23 @@ Hva skal vi stå for i SKDE?
 # Strategiske områder (HSB)
 
 
-## Strategiske områder oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategiske områder oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 - Forskning
 - Kunnskapsoverføring
 - Beslutningsstøtte
 
 
-## Strategisk område: forskning
+## Strategisk område: forskning {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Vi skal styrke arbeidet med kvalitetsregistre og helseatlas, og utvikler derfor klinikknær helsetjeneste-forskning med kvantitativ og kvalitativ metode med data fra bla. medisinske kvalitetsregistre, NPR og andre nasjonale helse- og befolkningsregistre.
 
 
-## Strategisk område: kunnskapsoverføring
+## Strategisk område: kunnskapsoverføring {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Vi skal stimulere til økt bruk av resultater fra SKDE som grunnlag for forbedringsprosjekter i helseforetakene, og utvikler derfor nye og mer målrettede aktiviteter som tar sikte på kunnskapsoverføring til beslutningstakere på alle nivåer i helsetjenesten.
 
 
-## Strategisk område: beslutningsstøtte
+## Strategisk område: beslutningsstøtte {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Vi skal sikre beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
@@ -168,7 +164,7 @@ Hva skal vi stå for i SKDE?
 # Suksessfaktorer (HT)
 
 
-## Suksessfaktorer oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain" .center}
+## Suksessfaktorer oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
 - Funksjonell organisering
 - Fremtidsrettet kompetanse
 - Nærhet til helsetjenesten
@@ -176,7 +172,7 @@ Hva skal vi stå for i SKDE?
 ## Note-to-self
 Suksessfaktorer har bare kulepunkter...
 
-## Suksessfaktor: funksjonell orgasnisering {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain" .center}
+## Suksessfaktor: funksjonell orgasnisering {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
 
 > - God intern samordning og oppgavefordeling gjennom tydelig prioritering av oppgaver
 > - Optimalisert og situasjonsbetinget bruk av den samlede analysekapasiteten
@@ -186,7 +182,7 @@ Suksessfaktorer har bare kulepunkter...
 > - En tverrfaglig arbeidsgruppe for å utvikle kunnskap om metoder for kvalitetsforbedring
 
 
-## Suksessfaktor: fremtidsrettet kompetanse {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain" .center}
+## Suksessfaktor: fremtidsrettet kompetanse {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
 
 > - Vi er en lærende organisasjon, der ansatte har tid og rom for utforsking av nye ideer og verktøy
 > - Vi er en innovativ og endringsvillig organisasjon der nye ideer-….nåkka?
@@ -198,7 +194,7 @@ Suksessfaktorer har bare kulepunkter...
 > - Pålitelig databehandling?
 
 
-## Suksessfaktor: nærhet til helsetjenesten {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain" .center}
+## Suksessfaktor: nærhet til helsetjenesten {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
 
 > - Vi er en sentral aktør i et samordnet og koordinert fagmiljø som fungerer som støtte for(?) kvalitetsregistrene og referansegrupper for helseatlas og virksomhetsanalyser
 > - Vi har et kompetent og tverrfaglig brukerforum for SKDE som aktivt brukes til forbedring og utvikling
@@ -218,14 +214,14 @@ Suksessfaktorer har bare kulepunkter...
 Kule og strek...
 
 
-## Strategisk område: forskning {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: forskning {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Forskning på årsaker til variasjon i bruk og kvalitet i helsetjenesten som er nyttig i forbedringsarbeid, skal inngå som en integrert del av kjernevirksomheten i SKDE
 
 Herunder:
 
 
-## Strategisk område: forskning, forts. {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: forskning, forts. {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > - Utvikle forskningsstøttet helseatlas med bruk av flere datakilder
 > - Prioritere og tilrettelegge for forskningssamarbeid med kvalitetsregistre
@@ -233,7 +229,7 @@ Herunder:
 > - Utvikle forskningsnettverk: identifisere og etablere formelt samarbeid med sentrale nasjonale og internasjonale miljø.
 
 
-## Strategisk område: forskning, forts. {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: forskning, forts. {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Skape handlingsrom gjennom ekstern finansiering
 
@@ -242,14 +238,14 @@ Herunder:
 > - Søke på alle relevante nasjonale utlysninger av forskningsmidler
 
 
-## Strategisk område: kunnskapsoverføring {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: kunnskapsoverføring {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Sørge for at tilgjengelig styringsinformasjon, kunnskap om variasjon i helsetjenesten og kunnskap om forbedringsmetodikk når ut til beslutningstakere på alle nivåer i helsetjenesten
 
 Herunder:
 
 
-## Strategisk område: kunnskapsoverføring, forts.  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: kunnskapsoverføring, forts.  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > - Bringe målrettet og tilpasset  informasjon til hvert enkelt HF, RHF og nasjonale helsemyndigheter
 > - Arbeide for at forbedrings-kunnskap/metodikk tas opp i alle kvalitetsregistre
@@ -260,7 +256,7 @@ Herunder:
 > - Forenkle rapporteringsrutiner for kvalitetsregistrene  --  selvangivelsmodell
 
 
-## Strategisk område: beslutningsstøtte  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain" .center}
+## Strategisk område: beslutningsstøtte  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 - Beholde og utvikle posisjonen som nasjonalt ledende innen kunnskap om medisinske kvalitetsregistre og NPR, som datakilder for kvalitetsforbedring og styringsinformasjon
     - Styrke miljøet for analysestøtte basert på registerdata
     - Markere SKDE i nasjonale nettverk/arbeidsgrupper
