@@ -207,15 +207,6 @@ Suksessfaktorer har bare kulepunkter...
 
 
 
-## [And now, the nitty gritty details...]
-
-- [Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner]
-- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik? JA]
-
-
-
-
-
 ## Skal dette med videre? (sto under databehandling)
 - Ivareta og utvikle faglighet, grundighet, edruelighet og åpenhet  i vår databehandling
 - Ivareta og utvikle engasjementet og viljen til å støtte opp om de som er avhengige av oss 
