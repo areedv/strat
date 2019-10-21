@@ -116,7 +116,7 @@ Hva skal vi stå for i SKDE?
 
 
 
-# Utkast til Strategi for SKDE
+# Utkast til Strategi for SKDE (AE)
 
 ## Forutsetninger
 
@@ -124,18 +124,29 @@ Hva skal vi stå for i SKDE?
 - Regionale og nasjonale oppdrag
 - Økonomiske rammebetingelser
 
-## (Våre) Kjerneverdier
+## Våre kjerneverdier
 - Hva er nå det da?
-- Må gjelde for alle, ala alle må kunne idetifiserer seg med verdiene som foreslås
+- Må gi gjenklang hos alle, aka alle må kunne idetifiserer seg med verdiene som foreslås
 
 
-## Strategiske områder (HSB)
 
+## Visjon
+
+> Pasientens beste
+
+
+## Mål: bedre og mer likeverdige tjenester
+
+> SKDE skal bidra til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
+
+
+# Strategiske områder (HSB)
+
+
+## Strategiske områder oppsummert
 - Forskning
 - Kunnskapsoverføring
 - Beslutningsstøtte
-
-...og dette kommer vi tilbake til om tida strekker til
 
 
 ## Strategisk område: forskning
@@ -153,34 +164,19 @@ Hva skal vi stå for i SKDE?
 > Vi skal sikre beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
 
-## Suksessfaktorer (HT)
 
+# Suksessfaktorer (HT)
+
+
+## Suksessfaktorer oppsummert
 - Funksjonell organisering
 - Fremtidsrettet kompetanse
 - Nærhet til helsetjenesten
 
-...og dette kommer vi tilbake til om tida strekker til
+## Note-to-self
+Suksessfaktorer har bare kulepunkter...
 
-## Kulepunktene (og ikke strek)
-
-
-## Mål: bedre og mer likeverdige tjenester (før suksess) (AE)
-
-> SKDE skal bidra til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
-
-
-## Visjon  (før suksess) (AE)
-
-> Pasientens beste
-
-
-## [And now, the nitty gritty details...]
-
-- [Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner]
-- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik? JA]
-
-
-## Suksessfaktorer: funksjonell orgasnisering
+## Suksessfaktor: funksjonell orgasnisering
 
 > - God intern samordning og oppgavefordeling gjennom tydelig prioritering av oppgaver
 > - Optimalisert og situasjonsbetinget bruk av den samlede analysekapasiteten
@@ -190,7 +186,7 @@ Hva skal vi stå for i SKDE?
 > - En tverrfaglig arbeidsgruppe for å utvikle kunnskap om metoder for kvalitetsforbedring
 
 
-## Suksessfaktorer: fremtidsrettet kompetanse
+## Suksessfaktor: fremtidsrettet kompetanse
 
 > - Vi er en lærende organisasjon, der ansatte har tid og rom for utforsking av nye ideer og verktøy
 > - Vi er en innovativ og endringsvillig organisasjon der nye ideer-….nåkka?
@@ -202,16 +198,34 @@ Hva skal vi stå for i SKDE?
 > - Pålitelig databehandling?
 
 
-## Suksessfaktorer: nærhet til helsetjenesten
+## Suksessfaktor: nærhet til helsetjenesten
 
 > - Vi er en sentral aktør i et samordnet og koordinert fagmiljø som fungerer som støtte for(?) kvalitetsregistrene og referansegrupper for helseatlas og virksomhetsanalyser
 > - Vi har et kompetent og tverrfaglig brukerforum for SKDE som aktivt brukes til forbedring og utvikling
 > - Vi bruker den kontakten vi har med sentrale fagfolk i arbeidet  med å formidle  resultater
 
 
+
+
+## [And now, the nitty gritty details...]
+
+- [Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner]
+- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik? JA]
+
+
+
+
+
 ## Skal dette med videre? (sto under databehandling)
 - Ivareta og utvikle faglighet, grundighet, edruelighet og åpenhet  i vår databehandling
 - Ivareta og utvikle engasjementet og viljen til å støtte opp om de som er avhengige av oss 
+
+
+
+# Strategiske mål og tiltak (HSB)
+
+## Note-to-self
+Kule og strek...
 
 
 ## Strategisk område: forskning
@@ -264,6 +278,31 @@ Herunder:
     - Identifisere og utforme relevant styringsinformasjon
 - Utvikle kompetansen på og prosedyrene for bruk av andre helseregistre samt koblede datasett, som datakilder for kvalitetsforbedring og - styringsinformasjon
 
-# Strategiske mål og tiltak
 
-## Kule og strek
+## Suksessfaktor: funksjonell orgasnisering
+
+> - God intern samordning og oppgavefordeling gjennom tydelig prioritering av oppgaver
+> - Optimalisert og situasjonsbetinget bruk av den samlede analysekapasiteten
+> - Optimalisert og samordnet bruk av stabsressursene
+> - Et samlet analysemiljø 
+> - En tverrfaglig arbeidsgruppe for en ny formidlingsportal/plan 
+> - En tverrfaglig arbeidsgruppe for å utvikle kunnskap om metoder for kvalitetsforbedring
+
+
+## Suksessfaktor: fremtidsrettet kompetanse
+
+> - Vi er en lærende organisasjon, der ansatte har tid og rom for utforsking av nye ideer og verktøy
+> - Vi er en innovativ og endringsvillig organisasjon der nye ideer-….nåkka?
+> - Hvor kompetente skal forskerne våre være --- hvilken kompetanse skal vi styre mot etter oppnådd PhD?  professorkompetente? 1. aman komp?
+> - Intern opplæring/kompetanseoverføring
+> - Formell kompetanseheving (nye doktorgrader/mastergrader)
+> - Deltakelse på eksterne kurs ved behov
+> - God helseregisterkompetanse 
+> - Pålitelig databehandling?
+
+
+## Suksessfaktor: nærhet til helsetjenesten
+
+> - Vi er en sentral aktør i et samordnet og koordinert fagmiljø som fungerer som støtte for(?) kvalitetsregistrene og referansegrupper for helseatlas og virksomhetsanalyser
+> - Vi har et kompetent og tverrfaglig brukerforum for SKDE som aktivt brukes til forbedring og utvikling
+> - Vi bruker den kontakten vi har med sentrale fagfolk i arbeidet  med å formidle  resultater
