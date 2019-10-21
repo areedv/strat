@@ -1,7 +1,7 @@
 ---
 title: "SKDE strategi"
 author: "Stunt"
-date: "28. oktober 2019"
+date: "24. oktober 2019"
 output:
   revealjs::revealjs_presentation:
     self_contained: true
@@ -18,10 +18,21 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Rammer for prosess og tidsplan -- samt kake
+# Rammer for prosess og tidsplan -- samt kake (BV)
 
 ## Men hvorfor..? {background-repeat="no-repeat"}
 Legges frem av BV
+
+
+## Hvem har jobbet med dette?
+asdf
+
+
+## Tidslinje
+sdfsa
+
+
+# Hva er strategi? (HS)
 
 ## Hva er strategien -- og hva er den ikke?
 ![](./figs/toc.jpg) <!-- .element height="50%" width="50%" -->
@@ -31,11 +42,16 @@ Legges frem av BV
 ## Hvorfor lager vi en strategi?
 ![](./figs/rammebetingelser.gif)
 
+
+## Hva kjennetegner en god strategi (kulepunkter)?
+
 ## Hva kjennetegner en god strategi?
 ![](./figs/prioritere.gif)
 
 ## Hva kjennetegner en god strategi?
 ![](./figs/trajectory.gif)
+
+## Hva kjennetegner en god strategi (mulig kulepunkter)?
 
 ## Hva kjennetegner en god strategi?
 ![](./figs/fristelse.gif)
@@ -56,7 +72,7 @@ Legges frem av BV
 
 
 
-# Rammeverk for en strategi
+# Rammeverk for en strategi (PGP)
 
 
 ## Til hjelp for tanken
@@ -65,16 +81,12 @@ Legges frem av BV
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
-- Økonomiske og juridiske rammer
-- Oppdrag
-- Bestillinger [er dette egentlig en hard forutsetning?]
+Eksterne rammebetingelser
 
 
 ## Kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 Hva skal vi stå for i SKDE?
-
-[For gruppearbeidet, ønsker vi da fokus på HOLDNINGER eller KOMPETANSE, ev begge deler?]
 
         
 ## Visjon {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain" .center}
@@ -89,6 +101,12 @@ Hva skal vi stå for i SKDE?
 - Hva vi skal ha oppnådd
 
 
+## Strategiske områder {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
+
+- hvor vi har et gap mellom nåsituasjon og ønsket situasjon/målbilde
+- hvor vi særskilt vil knytte aktiviteter og investeringer for å komme dit vi ønsker
+
+
 ## Suksessfaktorer {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 - Hva som skal til for at vi lykkes i å nå visjon og mål
@@ -96,18 +114,9 @@ Hva skal vi stå for i SKDE?
 - "Konkurransefortrinn"
 
 
-## Strategiske områder {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
-
-- hvor vi har et gap mellom nåsituasjon og ønsket situasjon/målbilde
-- hvor vi særskilt vil knytte aktiviteter og investeringer for å komme dit vi ønsker
 
 
-
-# (Utvikling av) Strategi (for) SKDE
-
-## (Våre) Kjerneverdier
-Hva er nå det da?
-
+# Utkast til Strategi for SKDE
 
 ## Forutsetninger
 
@@ -115,8 +124,12 @@ Hva er nå det da?
 - Regionale og nasjonale oppdrag
 - Økonomiske rammebetingelser
 
+## (Våre) Kjerneverdier
+- Hva er nå det da?
+- Må gjelde for alle, ala alle må kunne idetifiserer seg med verdiene som foreslås
 
-## Strategiske områder
+
+## Strategiske områder (HSB)
 
 - Forskning
 - Kunnskapsoverføring
@@ -140,7 +153,7 @@ Hva er nå det da?
 > Vi skal sikre beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
 
-## Suksessfaktorer
+## Suksessfaktorer (HT)
 
 - Funksjonell organisering
 - Fremtidsrettet kompetanse
@@ -148,13 +161,15 @@ Hva er nå det da?
 
 ...og dette kommer vi tilbake til om tida strekker til
 
+## Kulepunktene (og ikke strek)
 
-## Mål: bedre og mer likeverdige tjenester
+
+## Mål: bedre og mer likeverdige tjenester (før suksess) (AE)
 
 > SKDE skal bidra til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
 
 
-## Visjon
+## Visjon  (før suksess) (AE)
 
 > Pasientens beste
 
@@ -162,7 +177,7 @@ Hva er nå det da?
 ## [And now, the nitty gritty details...]
 
 - [Ved behov/om tid benyttes detaljer fra arbeidsgruppens diskusjoner]
-- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik?]
+- [Her er suksessfaktorer og strategiske områder i motsatt rekkefølge. Skal det være slik? JA]
 
 
 ## Suksessfaktorer: funksjonell orgasnisering
@@ -248,3 +263,7 @@ Herunder:
     - Utvikle et sterkt miljø for kunnskap om metoder for kvalitetsforbedring
     - Identifisere og utforme relevant styringsinformasjon
 - Utvikle kompetansen på og prosedyrene for bruk av andre helseregistre samt koblede datasett, som datakilder for kvalitetsforbedring og - styringsinformasjon
+
+# Strategiske mål og tiltak
+
+## Kule og strek
