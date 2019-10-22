@@ -175,8 +175,6 @@ Hva skal vi stå for i SKDE?
 - Fremtidsrettet kompetanse
 - Nærhet til helsetjenesten
 
-## Note-to-self
-Suksessfaktorer har bare kulepunkter...
 
 ## Suksessfaktor: funksjonell bruk av ressurser {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
 
@@ -228,6 +226,7 @@ Suksessfaktorer har bare kulepunkter...
 > Skape handlingsrom gjennom ekstern finansiering
 
 Tiltak:
+
 > - Etablere en kontinuerlig prosess for prosjektutvikling i hele avdelingen 
 > - Etablere en ide/prosjektbank til student/masteroppgaver
 > - Søke på alle relevante nasjonale utlysninger av forskningsmidler
