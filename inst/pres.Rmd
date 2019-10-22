@@ -75,7 +75,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](./figs/pyra.png) <!-- .element height="50%" width="50%" -->
 
 
-## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_trans.png" background-size="contain"}
+## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
 
 Eksterne rammebetingelser
 
