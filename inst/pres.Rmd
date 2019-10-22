@@ -110,6 +110,8 @@ Hva skal vi stå for i SKDE?
 - "Konkurransefortrinn"
 
 
+##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_concept_summary.png" background-size="contain"}
+
 
 
 # Utkast til Strategi for SKDE (AE)
@@ -136,6 +138,8 @@ Hva skal vi stå for i SKDE?
 > SKDE bidrar til å skape en bedre og mer likeverdig fordelt helsetjeneste i Norge gjennom analyser av og forskning på variasjon i omfang og kvalitet i helsetjenesten, og gjennom kunnskapsoverføring og beslutningsstøtte til forvaltning, helseledere, helsearbeidere og pasienter
 
 
+##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_ut_summary.png" background-size="contain"}
+
 # Strategiske områder (HSB)
 
 
@@ -159,6 +163,8 @@ Hva skal vi stå for i SKDE?
 
 > Vi sikrer beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
+
+##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_strat_summary.png" background-size="contain"}
 
 
 # Suksessfaktorer (HT)
