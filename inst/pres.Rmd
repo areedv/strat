@@ -202,6 +202,9 @@ Suksessfaktorer har bare kulepunkter...
 > - Vi bruker den kontakten vi har med sentrale fagfolk i arbeidet  med å formidle  resultater
 
 
+##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_suk_summary.png" background-size="contain"}
+
+
 
 # Strategiske mål og tiltak (Handlingsplan?) (HSB)
 
@@ -220,10 +223,11 @@ Suksessfaktorer har bare kulepunkter...
 > - Utvikle forskningsnettverk: identifisere og etablere formelt samarbeid med sentrale nasjonale og internasjonale miljø.
 
 
-## Strategisk område: forskning, forts. {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
+## Strategisk område: forskning {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Skape handlingsrom gjennom ekstern finansiering
 
+Tiltak:
 > - Etablere en kontinuerlig prosess for prosjektutvikling i hele avdelingen 
 > - Etablere en ide/prosjektbank til student/masteroppgaver
 > - Søke på alle relevante nasjonale utlysninger av forskningsmidler
@@ -260,4 +264,4 @@ Suksessfaktorer har bare kulepunkter...
 > - Identifisere og utforme relevant styringsinformasjon
  
 
-
+##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_all_summary.png" background-size="contain"}
