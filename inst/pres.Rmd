@@ -21,40 +21,79 @@ knitr::opts_chunk$set(echo = FALSE)
 # Begrunnelse, prosess og tidsplan
 
 
-## Men hvorfor..? {background-repeat="no-repeat"}
+## Endrede rammer for vår virksomhet {background-repeat="no-repeat"}
+
+> - FHI – variasjon og helsetjeneste forskning
+> - HDIR – variasjon i tjenester (psykiatri)
+> - HN RHF – vår plass i organisasjonen
+> - Ny organisering av ledelsen av kvalitetsregisterfeltet, _i.e_ mer avhengig av samarbeid med øvrige RHF
+> - Andre har datagrunnlag som vi tradisjonelt ville hatt, _e.g._ psykiatri Helse Førde 
+
+
+## Behov for  avklaringer internt i SKDE
+
+> - Uklart hvordan forskningen skulle innplasseres i hele virksomheten
+> - Ekstern finansiering av fremtidig forskning
+> - Samordning av parallell kompetanse (statistikk/analyse)
+
+
+## Omstillingsbehov i HN RHF
+
+> - Økonomi
+> - Organisering av fag, forskning og kvalitet
 
 
 ## Tidslinje {.center}
 ![](./figs/tidslinje.png)
 
 
-# Hva er strategi? (HSB)
+
+# Hva er strategi? <!-- HSB --> 
 
 ## Hva er strategien -- og hva er den ikke?
 ![](./figs/toc.jpg) <!-- .element height="50%" width="50%" -->
-
 
 
 ## Hvorfor lager vi en strategi?
 ![](./figs/rammebetingelser.gif)
 
 
-## Hva kjennetegner en god strategi (kulepunkter)?
+## Hva kjennetegner en god strategi?
+
+> Egnet til å videreutvikle og styrke dagens kjernevirksomhet
+
 
 ## Hva kjennetegner en god strategi?
 ![](./figs/prioritere.gif)
 
+
+## Hva kjennetegner en god strategi?
+
+> Alle finner sitt arbeid igjen
+
+
 ## Hva kjennetegner en god strategi?
 ![](./figs/trajectory.gif)
 
-## Hva kjennetegner en god strategi (mulig kulepunkter)?
+
+## Hva kjennetegner en god strategi?
+
+> Konkrete mål!
+
+> Én tydelig vei til målet!
+
+> Forener gjennom et felles mål
+
+> Inspirerer
+
+
 
 ## Hva kjennetegner en god strategi?
 ![](./figs/fristelse.gif)
 
 
 
-# To viktige presiseringer (HSB)
+# To viktige presiseringer <!-- (HSB) -->
 
 
 ## Prosess i arbeidsgruppen
@@ -68,7 +107,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Rammeverk for en strategi (PGP)
+# Rammeverk for en strategi <!-- (PGP) -->
 
 
 ## Til hjelp for tanken
@@ -114,7 +153,7 @@ Hva skal vi stå for i SKDE?
 
 
 
-# Utkast til Strategi for SKDE (AE)
+# Utkast til Strategi for SKDE <!-- (AE) -->
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/forut_bck.png" background-size="contain"}
 
@@ -124,7 +163,7 @@ Hva skal vi stå for i SKDE?
 
 ## Våre kjerneverdier {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/kjerne_bck.png" background-size="contain"}
 - Hva er nå det da?
-- Må gi gjenklang hos alle, aka alle må kunne idetifisere seg med verdiene som foreslås
+- Bør gi gjenklang hos alle, altså at alle kan idetifisere seg med verdiene som foreslås
 
 
 
@@ -140,7 +179,7 @@ Hva skal vi stå for i SKDE?
 
 ##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_ut_summary.png" background-size="contain"}
 
-# Strategiske områder (HSB)
+# Strategiske områder <!-- (HSB) -->
 
 
 ## Strategiske områder oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
@@ -153,10 +192,20 @@ Hva skal vi stå for i SKDE?
 
 > Vi styrker arbeidet med kvalitetsregistre og helseatlas, og utvikler derfor klinikknær helsetjeneste-forskning med kvantitativ og kvalitativ metode med data fra bla. medisinske kvalitetsregistre, NPR og andre nasjonale helse- og befolkningsregistre.
 
+## Strategisk område forkning: mål
+
+- Forskning på årsaker til variasjon i bruk og kvalitet i helsetjenesten som er nyttig i forbedringsarbeid, skal inngå som en integrert del av kjernevirksomheten i SKDE
+- Skape handlingsrom gjennom ekstern finansiering
+
 
 ## Strategisk område: kunnskapsoverføring {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 > Vi stimulerer til økt bruk av resultater fra SKDE som grunnlag for forbedringsprosjekter i helseforetakene, og utvikler derfor nye og mer målrettede aktiviteter som tar sikte på kunnskapsoverføring til beslutningstakere på alle nivåer i helsetjenesten.
+
+
+## Strategisk område kunnskapsoverføring: mål
+
+- Sørge for at tilgjengelig styringsinformasjon, kunnskap om variasjon i helsetjenesten og kunnskap om forbedringsmetodikk når ut til beslutningstakere på alle nivåer i helsetjenesten
 
 
 ## Strategisk område: beslutningsstøtte {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
@@ -164,10 +213,17 @@ Hva skal vi stå for i SKDE?
 > Vi sikrer beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
 
+## Strategisk område beslutningsstøtte: mål
+
+- Beholde og utvikle posisjonen som nasjonalt ledende innen kunnskap om medisinske kvalitetsregistre og NPR, som datakilder for kvalitetsforbedring og styringsinformasjon
+- Utvikle kompetansen på og prosedyrene for bruk av andre helseregistre samt koblede datasett, som datakilder for kvalitetsforbedring og - styringsinformasjon
+
+
+
 ##  {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background_strat_summary.png" background-size="contain"}
 
 
-# Suksessfaktorer (HT)
+# Suksessfaktorer <!-- (HT) -->
 
 
 ## Suksessfaktorer oppsummert {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/suk_bck.png" background-size="contain"}
@@ -204,7 +260,7 @@ Hva skal vi stå for i SKDE?
 
 
 
-# Strategiske mål og tiltak (Handlingsplan?) (HSB)
+# Strategiske mål og tiltak (Handlingsplan?) <!-- (HSB) -->
 
 
 ## Strategisk område: forskning {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
