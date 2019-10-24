@@ -110,7 +110,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## 
-![](./figs/pyra.png) <!-- .element style="height='50%' width='50%'" -->
+![](./figs/pyra.png)
 
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
