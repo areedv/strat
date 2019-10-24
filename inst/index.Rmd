@@ -71,7 +71,7 @@ knitr::opts_chunk$set(echo = FALSE)
 > Alle finner sitt arbeid igjen
 
 
-## Hva kjennetegner en god strategi?
+## 
 ![](./figs/trajectory.gif)
 
 
@@ -106,10 +106,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-# Rammeverk for en strategi <!-- (PGP) -->
+# Rammeverk for en strategi -- til hjelp for tanken <!-- (PGP) -->
 
 
-## Til hjelp for tanken
+## 
 ![](./figs/pyra.png) <!-- .element style="height='50%' width='50%'" -->
 
 
