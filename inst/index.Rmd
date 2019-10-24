@@ -11,7 +11,6 @@ output:
     theme: beige
     reveal_options:
       slideNumber: true
-      fig_height: 3
 ---
 
 ```{r setup, include=FALSE}
@@ -111,7 +110,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## Til hjelp for tanken
-![](./figs/pyra.png) <!-- .element height="50%" width="50%" -->
+![](./figs/pyra.png) <!-- .element style="height='50%' width='50%'" -->
 
 
 ## Forutsetninger {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/pyra_background.png" background-size="contain"}
