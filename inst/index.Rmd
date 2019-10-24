@@ -192,7 +192,7 @@ Hva skal vi stå for i SKDE?
 
 > Vi styrker arbeidet med kvalitetsregistre og helseatlas, og utvikler derfor klinikknær helsetjeneste-forskning med kvantitativ og kvalitativ metode med data fra bla. medisinske kvalitetsregistre, NPR og andre nasjonale helse- og befolkningsregistre.
 
-## Strategisk område forskning: mål
+## Strategisk område forskning: mål {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 - Forskning på årsaker til variasjon i bruk og kvalitet i helsetjenesten som er nyttig i forbedringsarbeid, skal inngå som en integrert del av kjernevirksomheten i SKDE
 - Skape handlingsrom gjennom ekstern finansiering
@@ -203,7 +203,7 @@ Hva skal vi stå for i SKDE?
 > Vi stimulerer til økt bruk av resultater fra SKDE som grunnlag for forbedringsprosjekter i helseforetakene, og utvikler derfor nye og mer målrettede aktiviteter som tar sikte på kunnskapsoverføring til beslutningstakere på alle nivåer i helsetjenesten.
 
 
-## Strategisk område kunnskapsoverføring: mål
+## Strategisk område kunnskapsoverføring: mål {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 - Sørge for at tilgjengelig styringsinformasjon, kunnskap om variasjon i helsetjenesten og kunnskap om forbedringsmetodikk når ut til beslutningstakere på alle nivåer i helsetjenesten
 
@@ -213,7 +213,7 @@ Hva skal vi stå for i SKDE?
 > Vi sikrer beslutningstakere i helsetjenesten tilgang til et kunnskapsgrunnlag av høy kvalitet, og styrker derfor vår analytiske kapasitet og utvikler et sterkt fagmiljø innen kvalitetsforbedrings-metodikk.
 
 
-## Strategisk område beslutningsstøtte: mål
+## Strategisk område beslutningsstøtte: mål {data-background="https://raw.githubusercontent.com/areedv/strat/master/inst/figs/strat_bck.png" background-size="contain"}
 
 - Beholde og utvikle posisjonen som nasjonalt ledende innen kunnskap om medisinske kvalitetsregistre og NPR, som datakilder for kvalitetsforbedring og styringsinformasjon
 - Utvikle kompetansen på og prosedyrene for bruk av andre helseregistre samt koblede datasett, som datakilder for kvalitetsforbedring og - styringsinformasjon
